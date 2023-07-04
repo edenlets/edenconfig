@@ -1,0 +1,83 @@
+{
+    "items": [
+         {
+            "type": "header",
+            "logo": "/images/edenlogo.svg",
+            "menu": [
+                {
+                    "title": "Home",
+                    "url": "/home"
+                },
+                {
+                    "title": "Background",
+                    "url": "/background"
+                },
+                {
+                    "title": "Chalets",
+                    "url": "/chalets"
+                },
+                {
+                    "title": "Facilities",
+                    "url": "/facilities"
+                },
+                {
+                    "title": "Local Information",
+                    "url": "/localinfo"
+                }
+                ,
+                {
+                    "title": "Photo Gallery",
+                    "url": "/photos"
+                }
+                ,
+                {
+                    "title": "Reviews",
+                    "url": "/reviews"
+                }
+            ]
+        },
+
+        {
+            "type": "image",
+            "images": ["/images/0.jpg"]
+        },
+        {
+            "type": "image",
+            "images": ["/images/1.jpg"]
+        },
+        {
+            "type": "image",
+            "images": ["/images/2.jpg"]
+        },
+        {
+            "type": "image",
+            "images": ["/images/3.jpg"]
+        },
+        {
+            "type": "image",
+            "images": ["/images/4.jpg"]
+        },
+        {
+            "type": "image",
+            "images": ["/images/5.jpg"]
+        },
+        {
+            "type": "image",
+            "images": ["/images/6.jpg"]
+        },
+        {
+            "type": "image",
+            "images": ["/images/7.jpg"]
+        },
+        {
+            "type": "image",
+            "images": ["/images/8.jpg"]
+        },
+
+        {
+            "type": "footer",
+            "title": "",
+            "description": ""
+        }
+    ]
+}

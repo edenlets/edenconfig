@@ -1,0 +1,48 @@
+{
+    "items": [
+         {
+            "type": "header",
+            "logo": "/images/edenlogo.svg",
+            "menu": [
+                {
+                    "title": "Home",
+                    "url": "/home"
+                },
+                {
+                    "title": "Lodges",
+                    "url": "/lodges"
+                },
+                {
+                    "title": "Beach",
+                    "url": "/beach"
+                },
+                {
+                    "title": "Culture",
+                    "url": "/culture"
+                },
+                {
+                    "title": "Find Us",
+                    "url": "/findus"
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "image": "/images/cabin.jpg"
+        },
+        {
+            "type": "post",
+            "title": "The Ultimate Escape",
+            "description": "Looking for a luxurious and relaxing holiday? Look no further than Eden Gardens. Our beautiful holiday homes...",
+            "image": "/images/cabin.jpg",
+            "imageText": "The Ultimate Escape",
+            "linkText": "Continue reading…",
+            "link": "/about"
+        },
+        {
+            "type": "footer",
+            "title": "",
+            "description": ""
+        }
+    ]
+}

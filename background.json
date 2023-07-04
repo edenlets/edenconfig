@@ -1,0 +1,62 @@
+{
+    "items": [
+         {
+            "type": "header",
+            "logo": "/images/edenlogo.svg",
+            "menu": [
+                {
+                    "title": "Home",
+                    "url": "/home"
+                },
+                {
+                    "title": "Background",
+                    "url": "/background"
+                },
+                {
+                    "title": "Chalets",
+                    "url": "/chalets"
+                },
+                {
+                    "title": "Facilities",
+                    "url": "/facilities"
+                },
+                {
+                    "title": "Local Information",
+                    "url": "/localinfo"
+                }
+                ,
+                {
+                    "title": "Photo Gallery",
+                    "url": "/photos"
+                }
+                ,
+                {
+                    "title": "Reviews",
+                    "url": "/reviews"
+                }
+            ]
+        },
+
+
+        {
+            "type": "text",
+            "size":"7",
+            "description": "Set on the outskirts of the quiet seaside village of Llansteffan, Eden Garden Luxury Lodges offer our guests an excellent opportunity to base themselves for a relaxing stay in a rural area or to explore the attractions and unspoilt countryside areas of Carmarthenshire and Pembrokeshire. The location provides an ideal opportunity to explore nearby activities that include the National Coastal Path, Llansteffan Beach and Llansteffan Castle."
+        },
+        {
+            "type": "text",
+            "size":"7",
+            "description": "The location of the lodges historically formed part of the Mansion House Estate and was originally a vegetable and herb walled garden supplying produce to the Estate. In 1972 the land was repurposed as a cooperative site consisting of 105 lodges that are all still present today. Eden Garden forms a private three lodge annex from the other 102 lodges."
+        },
+        {
+            "type": "text",
+            "size":"7",
+            "description": "Eden Garden was purchased by Mark and Eve in 2022 and the lodges have been fully refurbished into an open plan contemporary style. With guest comfort being a priority, the lodges are provided with a fully equipped kitchen, comfortable lounge area, flat screen smart television as well as high quality bedding to ensure a good night’s rest. Please refer to the specific lodge information page for further information."
+        },
+        {
+            "type": "footer",
+            "title": "",
+            "description": ""
+        }
+    ]
+}

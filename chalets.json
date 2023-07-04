@@ -1,0 +1,138 @@
+{
+    "items": [
+         {
+            "type": "header",
+            "logo": "/images/edenlogo.svg",
+            "menu": [
+                {
+                    "title": "Home",
+                    "url": "/home"
+                },
+                {
+                    "title": "Background",
+                    "url": "/background"
+                },
+                {
+                    "title": "Chalets",
+                    "url": "/chalets"
+                },
+                {
+                    "title": "Facilities",
+                    "url": "/facilities"
+                },
+                {
+                    "title": "Local Information",
+                    "url": "/localinfo"
+                }
+                ,
+                {
+                    "title": "Photo Gallery",
+                    "url": "/photos"
+                }
+                ,
+                {
+                    "title": "Reviews",
+                    "url": "/reviews"
+                }
+            ]
+        },
+        {"type":"spacer","size":"0"},
+
+        {"type":"ico","name":"grill"},
+        {
+            "type": "text",
+            "size":"7",
+            "description": "All lodges have a similar layout with an open plan kitchen and lounge area, double master bedroom, second bedroom and a bathroom. Each lodge has a patio area within boundary walls that can be accessed via patio doors from the lounge; the patios provide an ideal area for alfresco dining or an outdoor nightcap!"
+        },
+        {"type":"ico","name":"kitchen"},
+        {
+            "type": "text",
+            "size":"7",
+            "description": "Each kitchen is fully equipped with an electric oven and hob, dishwasher, microwave, kettle, toaster, fridge with ice compartment, slow cooker, saucepan sets, cutlery and cooking utensils. Dishwasher tablets, washing up liquid and condiments are provided together with complimentary tea, coffee, milk and sugar for your arrival night."
+        },
+        {"type":"ico","name":"shower"},
+        {
+            "type": "text",
+            "size":"7",
+            "description": "The bathrooms are furnished with a rain shower and handheld shower. The bathroom mirrors have an inbuilt electrical point for shavers and toothbrush charging. Shower gel, soap bar and towels are provided."
+        },
+        {"type":"ico","name":"bed"},
+        {
+            "type": "text",
+            "size":"7",
+            "description": "The master bedroom has a full size double bed with a ‘Simba’ mattress. Under bed drawers and bedside chest of drawers are provided for storage. The master bedroom is equipped with a vanity mirror and hairdryer. Reading lights on either side of the bed allow guests to catch up on a novel before snoozing off. Bedside electrical sockets have inbuilt USB charging points for your electrical devices."
+        }, 
+        
+        {"type":"ico","name":"tv"},
+        
+        {
+            "type": "text",
+            "size":"7",
+            "description": "Second bedrooms in Honeycrisp and Braeburn have two full size single beds whilst Gala sleeps three guests with a double / single bunk bed arrangement. Second bedrooms are equipped with a full height wardrobe with mirrored door and an integrated TV / DVD player. A selection of DVD’s will be found in the bedside drawer."
+        }, 
+        
+        {"type":"ico","name":"towel"},
+        {
+            "type": "text",
+            "size":"7",
+            "description": "Bed linen including duvets and pillows are provided for all guests."
+        }, 
+        {"type":"ico","name":"wifi"},
+        {
+            "type": "text",
+            "size":"7",
+            "description": "Free wifi is provided and each lodge is equipped with a Samsung 43’ flat screen smart television."
+        }, 
+        {"type":"ico","name":"heat"},
+        {
+            "type": "text",
+            "size":"7",
+            "description": "Your lodge climate is controlled via a Hive smart thermostat and temperature schedule. Should you feel the need to adjust the temperature this can be done via the thermostat or contact us and we can adjust your schedule."
+        },    
+        
+        {
+            "type": "text",
+            "size":"7",
+            "description": "At the rear of the lodge there is a small boiler house. Stored here are two loungers with cushions for guests to chill on the patio areas. There is also storage space here for guests who require additional storage, for example for strollers and pushchairs."
+        },    
+        
+        {"type":"ico","name":"fire"},
+        {
+            "type": "text",
+            "size":"7",
+            "description": "For your safety, a fire extinguisher and fire blanket can be found in the kitchen area. The fire sensor is located in the open plan living area. PLEASE NOTE - the bathroom door should be closed when the shower is on; steam from the shower can easily set off the fire alarm. Also, please note the following:"
+        },   
+        
+
+        {
+            "type": "text",
+            "size":"6",
+            "description": "- Gas isolator is located at the rear of the lodge (this supplies the boiler which is the only gas appliance) "
+        },   
+        {
+            "type": "text",
+            "size":"6",
+            "description": "- The electrical DB is located above the wardrobe in the second bedroom"
+        },   
+
+        {
+            "type": "text",
+            "size":"6",
+            "description": "- Water stopcock for the kitchen sink is located adjacent to / under the sink. Bathroom stopcock switches are located under the bathroom sink"
+        },   
+
+        
+        {
+            "type": "text",
+            "size":"7",
+            "description": "Please note that other facilities such as child high chair, travel cot etc are available by request, without additional charge."
+        },  
+
+
+        {
+            "type": "footer",
+            "title": "",
+            "description": ""
+        }
+    ]
+}

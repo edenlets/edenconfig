@@ -1,0 +1,75 @@
+{
+    "items": [
+         {
+            "type": "header",
+            "logo": "/images/edenlogo.svg",
+            "menu": [
+                {
+                    "title": "Home",
+                    "url": "/home"
+                },
+                {
+                    "title": "Background",
+                    "url": "/background"
+                },
+                {
+                    "title": "Chalets",
+                    "url": "/chalets"
+                },
+                {
+                    "title": "Facilities",
+                    "url": "/facilities"
+                },
+                {
+                    "title": "Local Information",
+                    "url": "/localinfo"
+                }
+                ,
+                {
+                    "title": "Photo Gallery",
+                    "url": "/photos"
+                }
+                ,
+                {
+                    "title": "Reviews",
+                    "url": "/reviews"
+                }
+            ]
+        },
+
+
+
+        {
+            "type": "post",
+            "title": "Relax in Luxury",
+            "description": "Looking for a luxurious and relaxing holiday? Look no further than Eden Gardens. Our beautiful holiday homes...",
+            "image": "/images/apple.jpg",
+            "imageText": "The Ultimate Escape",
+            "linkText": "Continue reading…",
+            "link": "/about"
+        },
+        {
+            "type":"embed",
+            "link":""
+
+            },
+        {
+            "type": "text",
+            "size":"7",
+            "description": "Follow the signs after leaving the B4312 Llansteffan Road to find us:"
+        },
+        {
+            "type": "singleimage",
+            "image": "/images/direct.png",
+            "description": "Fdddollow the signs after leaving the B4312 Llansteffan Road to find us:",
+            "linkText": "Book Now",
+            "link": "/book"
+        },
+        
+        {
+            "type": "footer",
+            "title": "",
+            "description": ""
+        }
+    ]
+}
