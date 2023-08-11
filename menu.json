@@ -3,7 +3,7 @@
     { "type": "link", "display": "Pricing", "url": "#pricing" },
     {
       "type": "dropdown", "display": "Dropdown", "url": "#features", "items": [
-        { "type: "dropdown_item", "display": "Action", "url": "#action/3.1" },
+        { "type": "dropdown_item", "display": "Action", "url": "#action/3.1" },
         { "type": "dropdown_item", "display": "Another action", "url": "#action/3.2" },
         { "type": "dropdown_item", "display": "Something", "url": "#action/3.3" },
         { "type": "divider" },
