@@ -7,7 +7,7 @@
         { "type": "dropdown_item", "display": "Another action", "url": "#action/3.2" },
         { "type": "dropdown_item", "display": "Something", "url": "#action/3.3" },
         { "type": "divider" },
-        { "type": "dropdown_item", "display": "Seperated Link", "url": "#action/3.4" },
+        { "type": "dropdown_item", "display": "Seperated Link", "url": "#action/3.4" }
       ]
     }]
 }
