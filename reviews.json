@@ -1,50 +1,45 @@
 {
     "items": [
-         {
-            "type": "header",
-            "logo": "/images/edenlogo.svg",
-            "menu": [
-                {
-                    "title": "Home",
-                    "url": "/home"
-                },
-                {
-                    "title": "Background",
-                    "url": "/background"
-                },
-                {
-                    "title": "Chalets",
-                    "url": "/chalets"
-                },
-                {
-                    "title": "Facilities",
-                    "url": "/facilities"
-                },
-                {
-                    "title": "Local Information",
-                    "url": "/localinfo"
-                }
-                ,
-                {
-                    "title": "Photo Gallery",
-                    "url": "/photos"
-                }
-                ,
-                {
-                    "title": "Reviews",
-                    "url": "/reviews"
-                }
-            ]
-        },
-
-
-
-       
-        
         {
-            "type": "footer",
-            "title": "",
-            "description": ""
+    "type": "reviews",
+    "items": [
+        {
+            "name": "Rachel",
+            "location": "United Kingdom",
+            "date": "February 2023",
+            "title": "Exceptional",
+            "review": "The location is perfect, really quiet and beautiful views. Everything you need is around a 10 minute drive away, even the beach. The lodge was exceptional and very clean. Really much needed weekend break away. I will be 100% booking again. 10/10 for me."
+        },
+        {
+            "name": "Reina",
+            "location": "United Kingdom",
+            "date": "April 2023",
+            "title": "Exceptional",
+            "review": "The place was very clean, Eve the owner was very helpful, we even had a bottle of prosecco as welcome gift. Beds were comfortable, amazing views from the living room. We will be back to this Eden Garden."
+        },
+        {
+            "name": "Sharon",
+            "location": "United Kingdom",
+            "date": "March 2023",
+            "title": "Amazing stay",
+            "review": "The whole chalet was amazing the area was rural great views and relaxing, Nothing not to like this place is exceptional"
+        },
+        {
+            "name": "Rachel",
+            "location": "United Kingdom",
+            "date": "March 2023",
+            "title": "Fantastic! exceeded all expectations",
+            "review": "We booked a stay at Eden Garden Lodge at short notice as our plans to stay with family fell through due to Covid..after a frantic scramble to find somewhere else to stay for the weekend...we were so relieved to find Eden lodge at a reasonable price and that looked decent. On arrival we were even more impressed. It far exceeded our expectations...it was lovely! looked to be newly furnished and everywhere was immaculately clean. It was also well heated. Great kitchen, well equipped with dishwasher too, Eve has thought of everything!..even down to a pizza cutter and tray! The Sitting area was great, as were both bedrooms, all beautifully decorated with plenty of space. The beds were really comfy and we had a great night's sleep both nights...it was soooo blissfully quiet too! Bathroom was great, recenly fitted, constant hot water. I nearly forgot to mention, the nice touches that made it that bit more special, the slippers on our beds with Eden garden logo towels and shower gel and soap in the bathroom. Can't recommend highly enough!...we'd definitely stay again, 5 stars!"
+        },
+        {
+            "name": "Kaylee",
+            "location": "United Kingdom",
+            "date": "February 2023",
+            "title": "Perfect",
+            "review": "Beautiful little chalet, very clean and spacious. Prosecco left for our little stay. Couldn’t have asked for any better. Only suggestion would be better signing to get to the location."
         }
+    ]
+}
+
     ]
 }
