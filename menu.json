@@ -1,5 +1,6 @@
 {
   "type": "navleft",
+  "logo":"/images/edenlogo.svg",
   "items": [
     {
       "type": "link",
@@ -9,12 +10,12 @@
     {
       "type": "link",
       "display": "Background",
-      "url": "#background"
+      "url": "/background"
     },
     {
       "type": "dropdown",
       "display": "Chalets",
-      "url": "#features",
+      "url": "/features",
       "items": [
         {
           "type": "dropdown_item",
