@@ -28,6 +28,7 @@
         {"type":"ico","name":"tv"},
         
         {
+                        "icon":"tv",
             "type": "text",
             "size":"7",
             "description": "Second bedrooms in Honeycrisp and Braeburn have two full size single beds whilst Gala sleeps three guests with a double / single bunk bed arrangement. Second bedrooms are equipped with a full height wardrobe with mirrored door and an integrated TV / DVD player. A selection of DVD’s will be found in the bedside drawer."
@@ -40,6 +41,7 @@
         }, 
         {"type":"ico","name":"wifi"},
         {
+                        "icon":"wifi",
             "type": "text",
             "size":"7",
             "description": "Free wifi is provided and each lodge is equipped with a Samsung 43’ flat screen smart television."
