@@ -57,6 +57,7 @@
         },    
         {"type":"ico","name":"fire"},
         {
+            "icon":"fire",
             "type": "text",
             "size":"7",
             "description": "For your safety, a fire extinguisher and fire blanket can be found in the kitchen area. The fire sensor is located in the open plan living area. PLEASE NOTE - the bathroom door should be closed when the shower is on; steam from the shower can easily set off the fire alarm. Also, please note the following:"
