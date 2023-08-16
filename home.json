@@ -1,44 +1,5 @@
 {
     "items": [
-         {
-            "type": "header",
-            "logo": "/images/edenlogo.svg",
-            "menu": [
-                {
-                    "title": "Home",
-                    "url": "/home"
-                },
-                {
-                    "title": "Background",
-                    "url": "/background"
-                },
-                {
-                    "title": "Chalets",
-                    "url": "/chalets"
-                },
-                {
-                    "title": "Facilities",
-                    "url": "/facilities"
-                },
-                {
-                    "title": "Local Information",
-                    "url": "/localinfo"
-                }
-                ,
-                {
-                    "title": "Photo Gallery",
-                    "url": "/photos"
-                }
-                ,
-                {
-                    "title": "Reviews",
-                    "url": "/reviews"
-                }
-            ]
-        },
-
-
-
         {
             "type": "post",
             "title": "Relax in Luxury",
@@ -64,12 +25,6 @@
             "description": "Fdddollow the signs after leaving the B4312 Llansteffan Road to find us:",
             "linkText": "Book Now",
             "link": "/book"
-        },
-        
-        {
-            "type": "footer",
-            "title": "",
-            "description": ""
         }
     ]
 }
