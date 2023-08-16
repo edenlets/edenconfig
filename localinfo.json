@@ -1,49 +1,5 @@
 {
     "items": [
-         {
-            "type": "header",
-            "logo": "/images/edenlogo.svg",
-            "menu": [
-                {
-                    "title": "Home",
-                    "url": "/home"
-                },
-                {
-                    "title": "Background",
-                    "url": "/background"
-                },
-                {
-                    "title": "Chalets",
-                    "url": "/chalets"
-                },
-                {
-                    "title": "Facilities",
-                    "url": "/facilities"
-                },
-                {
-                    "title": "Local Information",
-                    "url": "/localinfo"
-                }
-                ,
-                {
-                    "title": "Photo Gallery",
-                    "url": "/photos"
-                }
-                ,
-                {
-                    "title": "Reviews",
-                    "url": "/reviews"
-                }
-            ]
-        },
 
-
-
-      
-        {
-            "type": "footer",
-            "title": "",
-            "description": ""
-        }
     ]
 }
