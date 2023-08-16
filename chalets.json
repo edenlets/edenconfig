@@ -1,43 +1,6 @@
 {
     "items": [
-         {
-            "type": "header",
-            "logo": "/images/edenlogo.svg",
-            "menu": [
-                {
-                    "title": "Home",
-                    "url": "/home"
-                },
-                {
-                    "title": "Background",
-                    "url": "/background"
-                },
-                {
-                    "title": "Chalets",
-                    "url": "/chalets"
-                },
-                {
-                    "title": "Facilities",
-                    "url": "/facilities"
-                },
-                {
-                    "title": "Local Information",
-                    "url": "/localinfo"
-                }
-                ,
-                {
-                    "title": "Photo Gallery",
-                    "url": "/photos"
-                }
-                ,
-                {
-                    "title": "Reviews",
-                    "url": "/reviews"
-                }
-            ]
-        },
         {"type":"spacer","size":"0"},
-
         {"type":"ico","name":"grill"},
         {
             "type": "text",
@@ -62,7 +25,6 @@
             "size":"7",
             "description": "The master bedroom has a full size double bed with a ‘Simba’ mattress. Under bed drawers and bedside chest of drawers are provided for storage. The master bedroom is equipped with a vanity mirror and hairdryer. Reading lights on either side of the bed allow guests to catch up on a novel before snoozing off. Bedside electrical sockets have inbuilt USB charging points for your electrical devices."
         }, 
-        
         {"type":"ico","name":"tv"},
         
         {
@@ -70,7 +32,6 @@
             "size":"7",
             "description": "Second bedrooms in Honeycrisp and Braeburn have two full size single beds whilst Gala sleeps three guests with a double / single bunk bed arrangement. Second bedrooms are equipped with a full height wardrobe with mirrored door and an integrated TV / DVD player. A selection of DVD’s will be found in the bedside drawer."
         }, 
-        
         {"type":"ico","name":"towel"},
         {
             "type": "text",
@@ -89,21 +50,17 @@
             "size":"7",
             "description": "Your lodge climate is controlled via a Hive smart thermostat and temperature schedule. Should you feel the need to adjust the temperature this can be done via the thermostat or contact us and we can adjust your schedule."
         },    
-        
         {
             "type": "text",
             "size":"7",
             "description": "At the rear of the lodge there is a small boiler house. Stored here are two loungers with cushions for guests to chill on the patio areas. There is also storage space here for guests who require additional storage, for example for strollers and pushchairs."
         },    
-        
         {"type":"ico","name":"fire"},
         {
             "type": "text",
             "size":"7",
             "description": "For your safety, a fire extinguisher and fire blanket can be found in the kitchen area. The fire sensor is located in the open plan living area. PLEASE NOTE - the bathroom door should be closed when the shower is on; steam from the shower can easily set off the fire alarm. Also, please note the following:"
         },   
-        
-
         {
             "type": "text",
             "size":"6",
@@ -114,25 +71,15 @@
             "size":"6",
             "description": "- The electrical DB is located above the wardrobe in the second bedroom"
         },   
-
         {
             "type": "text",
             "size":"6",
             "description": "- Water stopcock for the kitchen sink is located adjacent to / under the sink. Bathroom stopcock switches are located under the bathroom sink"
         },   
-
-        
         {
             "type": "text",
             "size":"7",
             "description": "Please note that other facilities such as child high chair, travel cot etc are available by request, without additional charge."
-        },  
-
-
-        {
-            "type": "footer",
-            "title": "",
-            "description": ""
         }
     ]
 }
