@@ -1,5 +1,21 @@
 {
     "items": [
-
+        {
+            "type": "text",
+            "items":[
+             {
+            "icon":"",
+            "type": "Food and Drink",
+            "size":"7",
+            "description": "Within walking distance from the Lodges is the International Hostel with a Mexican themed bar offering pool, darts a jukebox and mexican food. Opening hours are subject to seasonal trends, Also within walking distance from the Lodges is the Mansion House restaurant and bar. A short drive into Llansteffan you will find The Inn at the Sticks and The Castle Inn. The Farmers Arms in Llanybri is a country pub serving authentic Thai and British cuisine and a Sunday carvery. Carmarthen offers a wide selection of cafe’s, bars and restaurants."
+                },
+                             {
+            "icon":"",
+            "type": "Shops",
+            "size":"7",
+            "description": "The closest shop is approximately 2.6 miles from Eden Gardens is The Village Stores in Llansteffan, This is a small convenience store and is open most days. There is a Spar enroute to Eden Gardens from Carmarthen in Johnstone with major supermarkets located in Carmarthen that include Tesco Extra, Aldi and Morrisons."
+                }
+            ]
+        }
     ]
 }
