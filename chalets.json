@@ -10,17 +10,20 @@
         {"type":"ico","name":"kitchen"},
         {
             "type": "text",
+            "icon":"kitchen",
             "size":"7",
             "description": "Each kitchen is fully equipped with an electric oven and hob, dishwasher, microwave, kettle, toaster, fridge with ice compartment, slow cooker, saucepan sets, cutlery and cooking utensils. Dishwasher tablets, washing up liquid and condiments are provided together with complimentary tea, coffee, milk and sugar for your arrival night."
         },
         {"type":"ico","name":"shower"},
         {
             "type": "text",
+            "icon":"shower"
             "size":"7",
             "description": "The bathrooms are furnished with a rain shower and handheld shower. The bathroom mirrors have an inbuilt electrical point for shavers and toothbrush charging. Shower gel, soap bar and towels are provided."
         },
         {"type":"ico","name":"bed"},
         {
+            "icon":"bed",
             "type": "text",
             "size":"7",
             "description": "The master bedroom has a full size double bed with a ‘Simba’ mattress. Under bed drawers and bedside chest of drawers are provided for storage. The master bedroom is equipped with a vanity mirror and hairdryer. Reading lights on either side of the bed allow guests to catch up on a novel before snoozing off. Bedside electrical sockets have inbuilt USB charging points for your electrical devices."
@@ -36,6 +39,7 @@
         {"type":"ico","name":"towel"},
         {
             "type": "text",
+            "icon":"pillow",
             "size":"7",
             "description": "Bed linen including duvets and pillows are provided for all guests."
         }, 
@@ -48,6 +52,7 @@
         }, 
         {"type":"ico","name":"heat"},
         {
+            "icon":"heat",
             "type": "text",
             "size":"7",
             "description": "Your lodge climate is controlled via a Hive smart thermostat and temperature schedule. Should you feel the need to adjust the temperature this can be done via the thermostat or contact us and we can adjust your schedule."
