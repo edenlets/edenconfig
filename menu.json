@@ -43,6 +43,14 @@
       "type": "link",
       "display": "Reviews",
       "url": "/reviews"
+    },
+        {
+      "type": "divider",
+    }
+        {
+      "type": "link",
+      "display": "Checkout",
+      "url": "/checkout"
     }
   ]
 }
