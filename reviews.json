@@ -4,13 +4,6 @@
     "type": "reviews",
     "items": [
         {
-            "name": "Rachel",
-            "location": "United Kingdom",
-            "date": "February 2023",
-            "title": "Exceptional",
-            "review": "The location is perfect, really quiet and beautiful views. Everything you need is around a 10 minute drive away, even the beach. The lodge was exceptional and very clean. Really much needed weekend break away. I will be 100% booking again. 10/10 for me."
-        },
-        {
             "name": "Reina",
             "location": "United Kingdom",
             "date": "April 2023",
@@ -37,6 +30,13 @@
             "date": "February 2023",
             "title": "Perfect",
             "review": "Beautiful little chalet, very clean and spacious. Prosecco left for our little stay. Couldn’t have asked for any better. Only suggestion would be better signing to get to the location."
+        },
+                {
+            "name": "Rachel",
+            "location": "United Kingdom",
+            "date": "February 2023",
+            "title": "Exceptional",
+            "review": "The location is perfect, really quiet and beautiful views. Everything you need is around a 10 minute drive away, even the beach. The lodge was exceptional and very clean. Really much needed weekend break away. I will be 100% booking again. 10/10 for me."
         }
     ]
 }
