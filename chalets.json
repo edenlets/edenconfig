@@ -17,7 +17,7 @@
         {"type":"ico","name":"shower"},
         {
             "type": "text",
-            "icon":"shower"
+            "icon":"shower",
             "size":"7",
             "description": "The bathrooms are furnished with a rain shower and handheld shower. The bathroom mirrors have an inbuilt electrical point for shavers and toothbrush charging. Shower gel, soap bar and towels are provided."
         },
