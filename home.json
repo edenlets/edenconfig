@@ -1,30 +1,65 @@
 {
-    "items": [
-        {
-            "type": "post",
-            "title": "Relax in Luxury",
-            "description": "Looking for a luxurious and relaxing holiday? Look no further than Eden Gardens. Our beautiful holiday homes...",
-            "image": "/images/apple.jpg",
-            "imageText": "The Ultimate Escape",
-            "linkText": "Continue reading…",
-            "link": "/about"
-        },
-        {
-            "type":"embed",
-            "link":""
+  "items": [
+      {
+        "opacity":"0.7",
+          "disabled":false,
+          "type": "post",
+          "title": "Relax in Luxury",
+          "description": "Looking for a luxurious and relaxing holiday? Look no further than Eden Gardens. Our beautiful holiday homes...",
+          "image": "/images/apple.jpg",
+          "imageText": "The Ultimate Escape",
+          "linkText": "Continue reading…",
+          "link": "https://www.booking.com/hotel/gb/eden-garden-luxury-lodges.en-gb.html"
+      },
+      {
+        "disabled":false,
+        "opacity":"1",
+        "type": "post",
+        "title": "Book Now",
+        "description": "Book Your Break Now.",
+        "image": "/images/book.jpg",
+        "imageText": "Book Now",
+        "linkText": "Continue reading…",
+        "link": "https://www.booking.com/hotel/gb/eden-garden-luxury-lodges.en-gb.html"
+    },
+      {
+        "disabled":true,
+        "opacity":"1",
+        "type": "post",
+        "title": "Book Now",
+        "description": "Schools out! Book Your Healf Term Break.",
+        "image": "/images/schoolhols.jpg",
+        "imageText": "Book Now",
+        "linkText": "Continue reading…",
+        "link": "https://www.booking.com/hotel/gb/eden-garden-luxury-lodges.en-gb.html"
+    },
+    {
+      "disabled":true,
+      "opacity":"0.9",
+      "type": "post",
+      "title": "Book Now",
+      "description": "Black Friday Deals",
+      "image": "/images/blackfriday.jpg",
+      "imageText": "Book Now",
+      "linkText": "Continue reading…",
+      "link": "https://www.booking.com/hotel/gb/eden-garden-luxury-lodges.en-gb.html"
+  },
+      {
+          "type":"embed",
+          "link":""
 
-            },
-        {
-            "type": "text",
-            "size":"7",
-            "description": "Follow the signs after leaving the B4312 Llansteffan Road to find us:"
-        },
-        {
-            "type": "singleimage",
-            "image": "/images/direct.png",
-            "description": "Fdddollow the signs after leaving the B4312 Llansteffan Road to find us:",
-            "linkText": "Book Now",
-            "link": "/book"
-        }
-    ]
+          },
+      {
+          "type": "text",
+          "size":"7",
+          "description": "Follow the signs after leaving the B4312 Llansteffan Road to find us:"
+      },
+      {
+          "type": "singleimage",
+          "image": "/images/direct.png",
+          "description": "Fdddollow the signs after leaving the B4312 Llansteffan Road to find us:",
+          "linkText": "Book Now",
+          "link": "/book"
+      }
+  ]
 }
