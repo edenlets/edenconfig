@@ -5,44 +5,44 @@
     {
       "type": "link",
       "display": "Home",
-      "url": "/#home"
+      "url": "/home"
     },
     {
       "type": "link",
       "display": "Background",
-      "url": "/#background"
+      "url": "/background"
     },
     {
       "type": "dropdown",
       "display": "Chalets",
-      "url": "/#features",
+      "url": "/features",
       "items": [
         {
           "type": "dropdown_item",
           "display": "Information",
-          "url": "/#chalets"
+          "url": "/chalets"
         },
         {
           "type": "dropdown_item",
           "display": "Photos",
-          "url": "/#photos"
+          "url": "/photos"
         }
       ]
     },
     {
       "type": "link",
       "display": "Facilities",
-      "url": "/#facilities"
+      "url": "/facilities"
     },
     {
       "type": "link",
       "display": "Local Information",
-      "url": "/#localinfo"
+      "url": "/localinfo"
     },
     {
       "type": "link",
       "display": "Reviews",
-      "url": "/#reviews"
+      "url": "/reviews"
     },
         {
       "type": "divider"
@@ -50,7 +50,7 @@
         {
       "type": "link",
       "display": "Checkout",
-      "url": "/#checkout"
+      "url": "/checkout"
     }
   ]
 }
